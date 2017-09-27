@@ -28,6 +28,8 @@ if ( isset( $_SERVER['HTTP_USER_AGENT'] ) && (strpos( $_SERVER['HTTP_USER_AGENT'
 
 <?php wp_head(); ?>
 
+<meta name="google-site-verification" content="qS2MZNXnYG1XTXVjXdJ3DpTyj6pTem75lXFO1qrLRks" />
+
 </head>
 
 <body <?php body_class(); ?>>
